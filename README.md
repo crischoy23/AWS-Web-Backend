@@ -1,6 +1,6 @@
 Website is hosted in AWS on an S3 bucket. Please click the link below
 
-https://cris-first-web-bucket.s3.ap-southeast-1.amazonaws.com/
+https://cris-first-web-bucket.s3.ap-southeast-1.amazonaws.com/index.html
 
 ## 🚀 Languages and Tools Used:
 <p align="left"> 
